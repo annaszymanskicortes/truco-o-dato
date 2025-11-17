@@ -1,1 +1,11 @@
 NOTAS DE LAS CLASES
+mainplot: explain the topic + main plot with a story, robust with statistics 
+
+PRESENTATION
+topic, different papers, different story, make sense for the hole
+
+put data in context 
+
+geopandas for spatial data, if we add new data to a file of this kind, use geojson form 
+
+time series: column with time in the index, move the column to the index and work with it
