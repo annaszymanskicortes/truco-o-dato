@@ -9,3 +9,14 @@ put data in context
 geopandas for spatial data, if we add new data to a file of this kind, use geojson form 
 
 time series: column with time in the index, move the column to the index and work with it
+
+ORAL PRESENTATION AND ARTICLE 
+
+Figures should tell a story 
+
+
+DATA MANAGEMENT PLAN 
+- explicar detalladamente los datos que tenemos (columnas...), metadata (qué quiere deicr cada columna), datos estandarizados en formato, contralo tambien y qué estandar tiene, geolocalizacion pues estándar que siga
+- licencias qué licencias concretamente cc
+- data sets creados (qué hacemos con ellos)
+- contar los merges, sumas, operaciones que hagamos en los datos 
