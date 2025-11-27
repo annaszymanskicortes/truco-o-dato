@@ -1,0 +1,32 @@
+ OpenData.ipynb                                     |      2 [32m+[m[31m-[m
+ data_Ander/2015_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2015_renda.csv                          |   1069 [32m+[m
+ data_Ander/2016_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2016_renda.csv                          |   1069 [32m+[m
+ data_Ander/2017_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2017_renda.csv                          |   1069 [32m+[m
+ data_Ander/2018_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2018_renda.csv                          |   1069 [32m+[m
+ data_Ander/2019_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2019_renda.csv                          |   1069 [32m+[m
+ data_Ander/2020_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2020_renda.csv                          |   1069 [32m+[m
+ data_Ander/2021_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2021_renda.csv                          |   1069 [32m+[m
+ data_Ander/2022_pad_mdbas.csv                      |   1069 [32m+[m
+ data_Ander/2022_renda.csv                          |   1069 [32m+[m
+ data_Ander/data_promotions_1314.csv                |  12664 [32m+[m
+ ...romotions_1516.csv => data_promotions_1516.csv} |      0
+ data_Ander/idoneidad_index.csv                     |     20 [32m+[m
+ data_Ander/idoneity_evolution.svg                  |   1566 [32m+[m
+ data_Ander/initial_evaluation.csv                  | 778554 [32m++++++++++++++++++[m
+ data_Ander/initial_evaluation_barcelona.csv        | 143566 [32m++++[m
+ data_Ander/interyear_variation.svg                 |   1511 [32m+[m
+ data_Ander/ist.csv                                 |      9 [32m+[m
+ data_Ander/ist_standarized.csv                     |     49 [32m+[m
+ data_Ander/ist_valores.csv                         |     49 [32m+[m
+ data_Ander/mean_score_evolution.svg                |   1233 [32m+[m
+ data_Ander/promotion_evolution.svg                 |   1317 [32m+[m
+ data_Ander/resum_global.csv                        |     34 [32m+[m
+ notebook_ander.ipynb                               |   2600 [32m+[m[31m-[m
+ 31 files changed, 959972 insertions(+), 306 deletions(-)
