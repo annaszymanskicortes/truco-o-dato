@@ -81,7 +81,7 @@ Formats include **CSV, XLSX and JSON**.
 ├── .gitignore # Git ignore rules
 ├── README.md # Project documentation (this file)
 └── notas.txt # Scratch notes (not part of final analysis)
-
+```
 ## 📊 Results and Figures
 
 This section presents the main visual results of the project.  
@@ -102,6 +102,7 @@ Focus:
 ![Promotion Time Series](figures_ander/promotion_timeseries.png)
 ![Year-to-Year Relative Variation](figures_ander/relative_variation.png)
 ![Socioeconomic Bubble Evolution](figures_ander/bubble_evolution.png)
+```
 🏘️ Ana Cano — Socioeconomic Context vs Academic Results
 Focus:
 
@@ -115,11 +116,12 @@ District-level spatial maps
 
 Figures:
 
-markdown
-Copiar código
+```markdown
 ![Promotion vs Income](figures_ana/promotion_vs_income.png)
 ![District Socioeconomic Map](figures_ana/district_map.png)
 ![Correlation Analysis](figures_ana/correlation_analysis.png)
+```
+
 🏫 Anna Szymanski — Public vs Private School Inequalities
 Focus:
 
@@ -131,11 +133,11 @@ District-based visualization of academic inequalities
 
 Figures:
 
-markdown
-Copiar código
+```markdown
 ![School Type Comparison](figures_anna/school_type_comparison.png)
 ![District Performance Map](figures_anna/district_results_map.png)
 ![Basic Competencies Comparison](figures_anna/basic_competencies.png)
+```
 🧩 Julia Carrillo — Educational Needs (NESE) & Performance
 Focus:
 
@@ -149,11 +151,11 @@ District-based geospatial analysis
 
 Figures:
 
-markdown
-Copiar código
+```markdown
 ![NESE vs Promotion](figures_julia/nese_vs_promotion.png)
 ![NESE Distribution Map](figures_julia/nese_distribution_map.png)
 ![Gender Differences](figures_julia/gender_comparison.png)
+```
 🔄 Quintín Huertas — Educational Trajectories & Student Flows
 Focus:
 
@@ -167,9 +169,9 @@ Relationship with district income
 
 Figures:
 
-markdown
-Copiar código
+```markdown
 ![ESO to Bachillerato](figures_quintin/eso_to_bachillerato.png)
 ![ESO to FP](figures_quintin/eso_to_fp.png)
 ![University Enrollments](figures_quintin/university_enrollments.png)
 ![District Rent Map](figures_quintin/rent_map.png)
+```
