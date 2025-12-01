@@ -27,7 +27,7 @@ This project investigates:
 - The **evolution of academic performance** in Barcelona and Catalonia.
 - The **relationship between socioeconomic context and school success**.
 - The **impact of school ownership (public vs private)** on academic outcomes.
-- The **effect of special educational needs (NESE)** on students’ performance.
+- The **effect of special and specific educational need** on students’ performance.
 - The **post-compulsory educational trajectories** of students after 4th ESO.
 - The **impact of COVID-19 on academic progression**.
 - Students’ growing **detachment from traditional academic paths**.
