@@ -1,0 +1,445 @@
+﻿año;municipio;barrios de Barcelona;concepto;estado;valor
+2022;Barcelona;el Raval;población ocupada (%);;57.5
+2022;Barcelona;el Raval;trabajadores de baja calificación (%);;13.4
+2022;Barcelona;el Raval;población con estudios bajos (%);;17.7
+2022;Barcelona;el Raval;población joven sin estudios postobligatorios (%);;29.9
+2022;Barcelona;el Raval;extranjeros de países de renta baja o media (%);;38.5
+2022;Barcelona;el Raval;renta media por persona (€);;10893
+2022;Barcelona;el Barri Gòtic;población ocupada (%);;45.3
+2022;Barcelona;el Barri Gòtic;trabajadores de baja calificación (%);;11.4
+2022;Barcelona;el Barri Gòtic;población con estudios bajos (%);;20.6
+2022;Barcelona;el Barri Gòtic;población joven sin estudios postobligatorios (%);;35.2
+2022;Barcelona;el Barri Gòtic;extranjeros de países de renta baja o media (%);;22.5
+2022;Barcelona;el Barri Gòtic;renta media por persona (€);;13971
+2022;Barcelona;la Barceloneta;población ocupada (%);;59.9
+2022;Barcelona;la Barceloneta;trabajadores de baja calificación (%);;9.7
+2022;Barcelona;la Barceloneta;población con estudios bajos (%);;14.6
+2022;Barcelona;la Barceloneta;población joven sin estudios postobligatorios (%);;17
+2022;Barcelona;la Barceloneta;extranjeros de países de renta baja o media (%);;19
+2022;Barcelona;la Barceloneta;renta media por persona (€);;14117
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;población ocupada (%);;59.7
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;trabajadores de baja calificación (%);;7
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;población con estudios bajos (%);;10.1
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;población joven sin estudios postobligatorios (%);;12.9
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;extranjeros de países de renta baja o media (%);;18.9
+2022;Barcelona;Sant Pere, Santa Caterina i la Ribera;renta media por persona (€);;15379
+2022;Barcelona;el Fort Pienc;población ocupada (%);;63.8
+2022;Barcelona;el Fort Pienc;trabajadores de baja calificación (%);;5.4
+2022;Barcelona;el Fort Pienc;población con estudios bajos (%);;9.3
+2022;Barcelona;el Fort Pienc;población joven sin estudios postobligatorios (%);;12.2
+2022;Barcelona;el Fort Pienc;extranjeros de países de renta baja o media (%);;13.6
+2022;Barcelona;el Fort Pienc;renta media por persona (€);;19279
+2022;Barcelona;la Sagrada Família;población ocupada (%);;67.5
+2022;Barcelona;la Sagrada Família;trabajadores de baja calificación (%);;5.2
+2022;Barcelona;la Sagrada Família;población con estudios bajos (%);;9.6
+2022;Barcelona;la Sagrada Família;población joven sin estudios postobligatorios (%);;9.6
+2022;Barcelona;la Sagrada Família;extranjeros de países de renta baja o media (%);;14.6
+2022;Barcelona;la Sagrada Família;renta media por persona (€);;18588
+2022;Barcelona;la Dreta de l'Eixample;población ocupada (%);;63.7
+2022;Barcelona;la Dreta de l'Eixample;trabajadores de baja calificación (%);;2.9
+2022;Barcelona;la Dreta de l'Eixample;población con estudios bajos (%);;5.6
+2022;Barcelona;la Dreta de l'Eixample;población joven sin estudios postobligatorios (%);;5.5
+2022;Barcelona;la Dreta de l'Eixample;extranjeros de países de renta baja o media (%);;10.8
+2022;Barcelona;la Dreta de l'Eixample;renta media por persona (€);;23769
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;población ocupada (%);;64.9
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;trabajadores de baja calificación (%);;3.6
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;población con estudios bajos (%);;6.4
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;población joven sin estudios postobligatorios (%);;6.9
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;extranjeros de países de renta baja o media (%);;12.2
+2022;Barcelona;l'Antiga Esquerra de l'Eixample;renta media por persona (€);;22561
+2022;Barcelona;la Nova Esquerra de l'Eixample;población ocupada (%);;67.9
+2022;Barcelona;la Nova Esquerra de l'Eixample;trabajadores de baja calificación (%);;4.7
+2022;Barcelona;la Nova Esquerra de l'Eixample;población con estudios bajos (%);;7.6
+2022;Barcelona;la Nova Esquerra de l'Eixample;población joven sin estudios postobligatorios (%);;7.9
+2022;Barcelona;la Nova Esquerra de l'Eixample;extranjeros de países de renta baja o media (%);;12.2
+2022;Barcelona;la Nova Esquerra de l'Eixample;renta media por persona (€);;20750
+2022;Barcelona;Sant Antoni;población ocupada (%);;67.2
+2022;Barcelona;Sant Antoni;trabajadores de baja calificación (%);;5.4
+2022;Barcelona;Sant Antoni;población con estudios bajos (%);;10.1
+2022;Barcelona;Sant Antoni;población joven sin estudios postobligatorios (%);;11.9
+2022;Barcelona;Sant Antoni;extranjeros de países de renta baja o media (%);;14.4
+2022;Barcelona;Sant Antoni;renta media por persona (€);;18720
+2022;Barcelona;el Poble Sec;población ocupada (%);;63.6
+2022;Barcelona;el Poble Sec;trabajadores de baja calificación (%);;9.8
+2022;Barcelona;el Poble Sec;población con estudios bajos (%);;13.6
+2022;Barcelona;el Poble Sec;población joven sin estudios postobligatorios (%);;19.3
+2022;Barcelona;el Poble Sec;extranjeros de países de renta baja o media (%);;20.6
+2022;Barcelona;el Poble Sec;renta media por persona (€);;14272
+2022;Barcelona;la Marina del Prat Vermell;población ocupada (%);;53.5
+2022;Barcelona;la Marina del Prat Vermell;trabajadores de baja calificación (%);;15.2
+2022;Barcelona;la Marina del Prat Vermell;población con estudios bajos (%);;21
+2022;Barcelona;la Marina del Prat Vermell;población joven sin estudios postobligatorios (%);;40.7
+2022;Barcelona;la Marina del Prat Vermell;extranjeros de países de renta baja o media (%);;12.4
+2022;Barcelona;la Marina del Prat Vermell;renta media por persona (€);;12529
+2022;Barcelona;la Marina de Port;población ocupada (%);;64.4
+2022;Barcelona;la Marina de Port;trabajadores de baja calificación (%);;12.1
+2022;Barcelona;la Marina de Port;población con estudios bajos (%);;15.7
+2022;Barcelona;la Marina de Port;población joven sin estudios postobligatorios (%);;23.9
+2022;Barcelona;la Marina de Port;extranjeros de países de renta baja o media (%);;14
+2022;Barcelona;la Marina de Port;renta media por persona (€);;14303
+2022;Barcelona;la Font de la Guatlla;población ocupada (%);;66.3
+2022;Barcelona;la Font de la Guatlla;trabajadores de baja calificación (%);;8.8
+2022;Barcelona;la Font de la Guatlla;población con estudios bajos (%);;12.5
+2022;Barcelona;la Font de la Guatlla;población joven sin estudios postobligatorios (%);;16.1
+2022;Barcelona;la Font de la Guatlla;extranjeros de países de renta baja o media (%);;16
+2022;Barcelona;la Font de la Guatlla;renta media por persona (€);;17321
+2022;Barcelona;Hostafrancs;población ocupada (%);;64.9
+2022;Barcelona;Hostafrancs;trabajadores de baja calificación (%);;7.3
+2022;Barcelona;Hostafrancs;población con estudios bajos (%);;11.7
+2022;Barcelona;Hostafrancs;población joven sin estudios postobligatorios (%);;16.2
+2022;Barcelona;Hostafrancs;extranjeros de países de renta baja o media (%);;17.2
+2022;Barcelona;Hostafrancs;renta media por persona (€);;16478
+2022;Barcelona;la Bordeta;población ocupada (%);;68.5
+2022;Barcelona;la Bordeta;trabajadores de baja calificación (%);;7
+2022;Barcelona;la Bordeta;población con estudios bajos (%);;13.4
+2022;Barcelona;la Bordeta;población joven sin estudios postobligatorios (%);;13.9
+2022;Barcelona;la Bordeta;extranjeros de países de renta baja o media (%);;10.7
+2022;Barcelona;la Bordeta;renta media por persona (€);;16799
+2022;Barcelona;Sants-Badal;población ocupada (%);;66.8
+2022;Barcelona;Sants-Badal;trabajadores de baja calificación (%);;9.4
+2022;Barcelona;Sants-Badal;población con estudios bajos (%);;13.6
+2022;Barcelona;Sants-Badal;población joven sin estudios postobligatorios (%);;14.5
+2022;Barcelona;Sants-Badal;extranjeros de países de renta baja o media (%);;15.4
+2022;Barcelona;Sants-Badal;renta media por persona (€);;16117
+2022;Barcelona;Sants;población ocupada (%);;64.5
+2022;Barcelona;Sants;trabajadores de baja calificación (%);;7.1
+2022;Barcelona;Sants;población con estudios bajos (%);;11.2
+2022;Barcelona;Sants;población joven sin estudios postobligatorios (%);;12.3
+2022;Barcelona;Sants;extranjeros de países de renta baja o media (%);;12.5
+2022;Barcelona;Sants;renta media por persona (€);;18090
+2022;Barcelona;les Corts;población ocupada (%);;68.6
+2022;Barcelona;les Corts;trabajadores de baja calificación (%);;3.7
+2022;Barcelona;les Corts;población con estudios bajos (%);;7.7
+2022;Barcelona;les Corts;población joven sin estudios postobligatorios (%);;6.8
+2022;Barcelona;les Corts;extranjeros de países de renta baja o media (%);;7.7
+2022;Barcelona;les Corts;renta media por persona (€);;23381
+2022;Barcelona;la Maternitat i Sant Ramon;población ocupada (%);;68.5
+2022;Barcelona;la Maternitat i Sant Ramon;trabajadores de baja calificación (%);;4.8
+2022;Barcelona;la Maternitat i Sant Ramon;población con estudios bajos (%);;9.9
+2022;Barcelona;la Maternitat i Sant Ramon;población joven sin estudios postobligatorios (%);;7.8
+2022;Barcelona;la Maternitat i Sant Ramon;extranjeros de países de renta baja o media (%);;9.8
+2022;Barcelona;la Maternitat i Sant Ramon;renta media por persona (€);;20894
+2022;Barcelona;Pedralbes;población ocupada (%);;60.8
+2022;Barcelona;Pedralbes;trabajadores de baja calificación (%);;2.1
+2022;Barcelona;Pedralbes;población con estudios bajos (%);;4.4
+2022;Barcelona;Pedralbes;población joven sin estudios postobligatorios (%);;4.4
+2022;Barcelona;Pedralbes;extranjeros de países de renta baja o media (%);;7.9
+2022;Barcelona;Pedralbes;renta media por persona (€);;31219
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;población ocupada (%);;66.2
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;trabajadores de baja calificación (%);;4.8
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;población con estudios bajos (%);;7
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;población joven sin estudios postobligatorios (%);;12
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;extranjeros de países de renta baja o media (%);;3.9
+2022;Barcelona;Vallvidrera, el Tibidabo i les Planes;renta media por persona (€);;23458
+2022;Barcelona;Sarrià;población ocupada (%);;67.4
+2022;Barcelona;Sarrià;trabajadores de baja calificación (%);;2.1
+2022;Barcelona;Sarrià;población con estudios bajos (%);;5.4
+2022;Barcelona;Sarrià;población joven sin estudios postobligatorios (%);;5.9
+2022;Barcelona;Sarrià;extranjeros de países de renta baja o media (%);;4.6
+2022;Barcelona;Sarrià;renta media por persona (€);;28558
+2022;Barcelona;les Tres Torres;población ocupada (%);;66.9
+2022;Barcelona;les Tres Torres;trabajadores de baja calificación (%);;2.2
+2022;Barcelona;les Tres Torres;población con estudios bajos (%);;3.6
+2022;Barcelona;les Tres Torres;población joven sin estudios postobligatorios (%);;4.7
+2022;Barcelona;les Tres Torres;extranjeros de países de renta baja o media (%);;4.3
+2022;Barcelona;les Tres Torres;renta media por persona (€);;33382
+2022;Barcelona;Sant Gervasi-la Bonanova;población ocupada (%);;66.6
+2022;Barcelona;Sant Gervasi-la Bonanova;trabajadores de baja calificación (%);;2.8
+2022;Barcelona;Sant Gervasi-la Bonanova;población con estudios bajos (%);;4.4
+2022;Barcelona;Sant Gervasi-la Bonanova;población joven sin estudios postobligatorios (%);;5.7
+2022;Barcelona;Sant Gervasi-la Bonanova;extranjeros de países de renta baja o media (%);;5.8
+2022;Barcelona;Sant Gervasi-la Bonanova;renta media por persona (€);;28883
+2022;Barcelona;Sant Gervasi-Galvany;población ocupada (%);;66.9
+2022;Barcelona;Sant Gervasi-Galvany;trabajadores de baja calificación (%);;2.2
+2022;Barcelona;Sant Gervasi-Galvany;población con estudios bajos (%);;4
+2022;Barcelona;Sant Gervasi-Galvany;población joven sin estudios postobligatorios (%);;4.3
+2022;Barcelona;Sant Gervasi-Galvany;extranjeros de países de renta baja o media (%);;6.2
+2022;Barcelona;Sant Gervasi-Galvany;renta media por persona (€);;29287
+2022;Barcelona;el Putxet i el Farró;población ocupada (%);;69.5
+2022;Barcelona;el Putxet i el Farró;trabajadores de baja calificación (%);;2.9
+2022;Barcelona;el Putxet i el Farró;población con estudios bajos (%);;4.5
+2022;Barcelona;el Putxet i el Farró;población joven sin estudios postobligatorios (%);;5.6
+2022;Barcelona;el Putxet i el Farró;extranjeros de países de renta baja o media (%);;7.3
+2022;Barcelona;el Putxet i el Farró;renta media por persona (€);;23839
+2022;Barcelona;Vallcarca i els Penitents;población ocupada (%);;69.5
+2022;Barcelona;Vallcarca i els Penitents;trabajadores de baja calificación (%);;4.9
+2022;Barcelona;Vallcarca i els Penitents;población con estudios bajos (%);;8.4
+2022;Barcelona;Vallcarca i els Penitents;población joven sin estudios postobligatorios (%);;9.2
+2022;Barcelona;Vallcarca i els Penitents;extranjeros de países de renta baja o media (%);;8.9
+2022;Barcelona;Vallcarca i els Penitents;renta media por persona (€);;21267
+2022;Barcelona;el Coll;población ocupada (%);;68.7
+2022;Barcelona;el Coll;trabajadores de baja calificación (%);;6.3
+2022;Barcelona;el Coll;población con estudios bajos (%);;10.9
+2022;Barcelona;el Coll;población joven sin estudios postobligatorios (%);;13.4
+2022;Barcelona;el Coll;extranjeros de países de renta baja o media (%);;12
+2022;Barcelona;el Coll;renta media por persona (€);;16945
+2022;Barcelona;la Salut;población ocupada (%);;69.6
+2022;Barcelona;la Salut;trabajadores de baja calificación (%);;4.1
+2022;Barcelona;la Salut;población con estudios bajos (%);;8.6
+2022;Barcelona;la Salut;población joven sin estudios postobligatorios (%);;8.2
+2022;Barcelona;la Salut;extranjeros de países de renta baja o media (%);;7.6
+2022;Barcelona;la Salut;renta media por persona (€);;20622
+2022;Barcelona;la Vila de Gràcia;población ocupada (%);;68.2
+2022;Barcelona;la Vila de Gràcia;trabajadores de baja calificación (%);;3.9
+2022;Barcelona;la Vila de Gràcia;población con estudios bajos (%);;7.8
+2022;Barcelona;la Vila de Gràcia;población joven sin estudios postobligatorios (%);;7.4
+2022;Barcelona;la Vila de Gràcia;extranjeros de países de renta baja o media (%);;9.6
+2022;Barcelona;la Vila de Gràcia;renta media por persona (€);;19570
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;población ocupada (%);;68.3
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;trabajadores de baja calificación (%);;3.9
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;población con estudios bajos (%);;8.6
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;población joven sin estudios postobligatorios (%);;9.2
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;extranjeros de países de renta baja o media (%);;8.4
+2022;Barcelona;el Camp d'en Grassot i Gràcia Nova;renta media por persona (€);;20491
+2022;Barcelona;el Baix Guinardó;población ocupada (%);;69.5
+2022;Barcelona;el Baix Guinardó;trabajadores de baja calificación (%);;5.3
+2022;Barcelona;el Baix Guinardó;población con estudios bajos (%);;11.1
+2022;Barcelona;el Baix Guinardó;población joven sin estudios postobligatorios (%);;10.8
+2022;Barcelona;el Baix Guinardó;extranjeros de países de renta baja o media (%);;10.9
+2022;Barcelona;el Baix Guinardó;renta media por persona (€);;17923
+2022;Barcelona;Can Baró;población ocupada (%);;68.8
+2022;Barcelona;Can Baró;trabajadores de baja calificación (%);;7.9
+2022;Barcelona;Can Baró;población con estudios bajos (%);;12
+2022;Barcelona;Can Baró;población joven sin estudios postobligatorios (%);;13.8
+2022;Barcelona;Can Baró;extranjeros de países de renta baja o media (%);;10.9
+2022;Barcelona;Can Baró;renta media por persona (€);;16469
+2022;Barcelona;el Guinardó;población ocupada (%);;69.4
+2022;Barcelona;el Guinardó;trabajadores de baja calificación (%);;7.1
+2022;Barcelona;el Guinardó;población con estudios bajos (%);;11.2
+2022;Barcelona;el Guinardó;población joven sin estudios postobligatorios (%);;12.3
+2022;Barcelona;el Guinardó;extranjeros de países de renta baja o media (%);;11.7
+2022;Barcelona;el Guinardó;renta media por persona (€);;17258
+2022;Barcelona;la Font d'en Fargues;población ocupada (%);;71.8
+2022;Barcelona;la Font d'en Fargues;trabajadores de baja calificación (%);;4.8
+2022;Barcelona;la Font d'en Fargues;población con estudios bajos (%);;9.7
+2022;Barcelona;la Font d'en Fargues;población joven sin estudios postobligatorios (%);;8.2
+2022;Barcelona;la Font d'en Fargues;extranjeros de países de renta baja o media (%);;4.8
+2022;Barcelona;la Font d'en Fargues;renta media por persona (€);;20795
+2022;Barcelona;el Carmel;población ocupada (%);;66.5
+2022;Barcelona;el Carmel;trabajadores de baja calificación (%);;13.3
+2022;Barcelona;el Carmel;población con estudios bajos (%);;18.9
+2022;Barcelona;el Carmel;población joven sin estudios postobligatorios (%);;22.8
+2022;Barcelona;el Carmel;extranjeros de países de renta baja o media (%);;15.1
+2022;Barcelona;el Carmel;renta media por persona (€);;12842
+2022;Barcelona;la Teixonera;población ocupada (%);;67
+2022;Barcelona;la Teixonera;trabajadores de baja calificación (%);;10.2
+2022;Barcelona;la Teixonera;población con estudios bajos (%);;16.1
+2022;Barcelona;la Teixonera;población joven sin estudios postobligatorios (%);;19.1
+2022;Barcelona;la Teixonera;extranjeros de países de renta baja o media (%);;13.4
+2022;Barcelona;la Teixonera;renta media por persona (€);;14048
+2022;Barcelona;Sant Genís dels Agudells;población ocupada (%);;66.9
+2022;Barcelona;Sant Genís dels Agudells;trabajadores de baja calificación (%);;10.4
+2022;Barcelona;Sant Genís dels Agudells;población con estudios bajos (%);;16.7
+2022;Barcelona;Sant Genís dels Agudells;población joven sin estudios postobligatorios (%);;18.5
+2022;Barcelona;Sant Genís dels Agudells;extranjeros de países de renta baja o media (%);;13.8
+2022;Barcelona;Sant Genís dels Agudells;renta media por persona (€);;14606
+2022;Barcelona;Montbau;población ocupada (%);;67
+2022;Barcelona;Montbau;trabajadores de baja calificación (%);;5.5
+2022;Barcelona;Montbau;población con estudios bajos (%);;15.9
+2022;Barcelona;Montbau;población joven sin estudios postobligatorios (%);;13.7
+2022;Barcelona;Montbau;extranjeros de países de renta baja o media (%);;12.1
+2022;Barcelona;Montbau;renta media por persona (€);;16264
+2022;Barcelona;la Vall d'Hebron;población ocupada (%);;71
+2022;Barcelona;la Vall d'Hebron;trabajadores de baja calificación (%);;4.8
+2022;Barcelona;la Vall d'Hebron;población con estudios bajos (%);;12.9
+2022;Barcelona;la Vall d'Hebron;población joven sin estudios postobligatorios (%);;12.2
+2022;Barcelona;la Vall d'Hebron;extranjeros de países de renta baja o media (%);;7.1
+2022;Barcelona;la Vall d'Hebron;renta media por persona (€);;19077
+2022;Barcelona;la Clota;población ocupada (%);;72.5
+2022;Barcelona;la Clota;trabajadores de baja calificación (%);;8.4
+2022;Barcelona;la Clota;población con estudios bajos (%);;13.2
+2022;Barcelona;la Clota;población joven sin estudios postobligatorios (%);;26.5
+2022;Barcelona;la Clota;extranjeros de países de renta baja o media (%);;9.6
+2022;Barcelona;la Clota;renta media por persona (€);;16063
+2022;Barcelona;Horta;población ocupada (%);;63.7
+2022;Barcelona;Horta;trabajadores de baja calificación (%);;8.3
+2022;Barcelona;Horta;población con estudios bajos (%);;16
+2022;Barcelona;Horta;población joven sin estudios postobligatorios (%);;19.7
+2022;Barcelona;Horta;extranjeros de países de renta baja o media (%);;8.8
+2022;Barcelona;Horta;renta media por persona (€);;16836
+2022;Barcelona;Vilapicina i la Torre Llobeta;población ocupada (%);;68.2
+2022;Barcelona;Vilapicina i la Torre Llobeta;trabajadores de baja calificación (%);;8.9
+2022;Barcelona;Vilapicina i la Torre Llobeta;población con estudios bajos (%);;14.6
+2022;Barcelona;Vilapicina i la Torre Llobeta;población joven sin estudios postobligatorios (%);;16.6
+2022;Barcelona;Vilapicina i la Torre Llobeta;extranjeros de países de renta baja o media (%);;12.7
+2022;Barcelona;Vilapicina i la Torre Llobeta;renta media por persona (€);;15950
+2022;Barcelona;Porta;población ocupada (%);;61
+2022;Barcelona;Porta;trabajadores de baja calificación (%);;12.5
+2022;Barcelona;Porta;población con estudios bajos (%);;18.9
+2022;Barcelona;Porta;población joven sin estudios postobligatorios (%);;28.3
+2022;Barcelona;Porta;extranjeros de países de renta baja o media (%);;14.5
+2022;Barcelona;Porta;renta media por persona (€);;14384
+2022;Barcelona;el Turó de la Peira;población ocupada (%);;62.9
+2022;Barcelona;el Turó de la Peira;trabajadores de baja calificación (%);;16.1
+2022;Barcelona;el Turó de la Peira;población con estudios bajos (%);;18.5
+2022;Barcelona;el Turó de la Peira;población joven sin estudios postobligatorios (%);;25.8
+2022;Barcelona;el Turó de la Peira;extranjeros de países de renta baja o media (%);;21.9
+2022;Barcelona;el Turó de la Peira;renta media por persona (€);;12071
+2022;Barcelona;Can Peguera;población ocupada (%);;52.5
+2022;Barcelona;Can Peguera;trabajadores de baja calificación (%);;17.4
+2022;Barcelona;Can Peguera;población con estudios bajos (%);;17.7
+2022;Barcelona;Can Peguera;población joven sin estudios postobligatorios (%);;36.1
+2022;Barcelona;Can Peguera;extranjeros de países de renta baja o media (%);;8.2
+2022;Barcelona;Can Peguera;renta media por persona (€);;11678
+2022;Barcelona;la Guineueta;población ocupada (%);;69.2
+2022;Barcelona;la Guineueta;trabajadores de baja calificación (%);;8.9
+2022;Barcelona;la Guineueta;población con estudios bajos (%);;16.8
+2022;Barcelona;la Guineueta;población joven sin estudios postobligatorios (%);;17.2
+2022;Barcelona;la Guineueta;extranjeros de países de renta baja o media (%);;7.9
+2022;Barcelona;la Guineueta;renta media por persona (€);;16198
+2022;Barcelona;Canyelles;población ocupada (%);;66.8
+2022;Barcelona;Canyelles;trabajadores de baja calificación (%);;13.8
+2022;Barcelona;Canyelles;población con estudios bajos (%);;18.9
+2022;Barcelona;Canyelles;población joven sin estudios postobligatorios (%);;23.2
+2022;Barcelona;Canyelles;extranjeros de países de renta baja o media (%);;6
+2022;Barcelona;Canyelles;renta media por persona (€);;15365
+2022;Barcelona;les Roquetes;población ocupada (%);;60.5
+2022;Barcelona;les Roquetes;trabajadores de baja calificación (%);;21
+2022;Barcelona;les Roquetes;población con estudios bajos (%);;20.5
+2022;Barcelona;les Roquetes;población joven sin estudios postobligatorios (%);;35.8
+2022;Barcelona;les Roquetes;extranjeros de países de renta baja o media (%);;21.1
+2022;Barcelona;les Roquetes;renta media por persona (€);;10946
+2022;Barcelona;Verdun;población ocupada (%);;62.4
+2022;Barcelona;Verdun;trabajadores de baja calificación (%);;17.1
+2022;Barcelona;Verdun;población con estudios bajos (%);;20.2
+2022;Barcelona;Verdun;población joven sin estudios postobligatorios (%);;29.5
+2022;Barcelona;Verdun;extranjeros de países de renta baja o media (%);;20.2
+2022;Barcelona;Verdun;renta media por persona (€);;11911
+2022;Barcelona;la Prosperitat;población ocupada (%);;66.9
+2022;Barcelona;la Prosperitat;trabajadores de baja calificación (%);;13.6
+2022;Barcelona;la Prosperitat;población con estudios bajos (%);;20.1
+2022;Barcelona;la Prosperitat;población joven sin estudios postobligatorios (%);;24.8
+2022;Barcelona;la Prosperitat;extranjeros de países de renta baja o media (%);;15.5
+2022;Barcelona;la Prosperitat;renta media por persona (€);;13299
+2022;Barcelona;la Trinitat Nova;población ocupada (%);;58.6
+2022;Barcelona;la Trinitat Nova;trabajadores de baja calificación (%);;21.2
+2022;Barcelona;la Trinitat Nova;población con estudios bajos (%);;18.4
+2022;Barcelona;la Trinitat Nova;población joven sin estudios postobligatorios (%);;38.5
+2022;Barcelona;la Trinitat Nova;extranjeros de países de renta baja o media (%);;20.9
+2022;Barcelona;la Trinitat Nova;renta media por persona (€);;10813
+2022;Barcelona;Torre Baró;población ocupada (%);;53.2
+2022;Barcelona;Torre Baró;trabajadores de baja calificación (%);;23
+2022;Barcelona;Torre Baró;población con estudios bajos (%);;16.9
+2022;Barcelona;Torre Baró;población joven sin estudios postobligatorios (%);;38.4
+2022;Barcelona;Torre Baró;extranjeros de países de renta baja o media (%);;17.2
+2022;Barcelona;Torre Baró;renta media por persona (€);;10082
+2022;Barcelona;Ciutat Meridiana;población ocupada (%);;56.3
+2022;Barcelona;Ciutat Meridiana;trabajadores de baja calificación (%);;25.5
+2022;Barcelona;Ciutat Meridiana;población con estudios bajos (%);;22.7
+2022;Barcelona;Ciutat Meridiana;población joven sin estudios postobligatorios (%);;42.4
+2022;Barcelona;Ciutat Meridiana;extranjeros de países de renta baja o media (%);;29.2
+2022;Barcelona;Ciutat Meridiana;renta media por persona (€);;9266
+2022;Barcelona;Vallbona;población ocupada (%);;60.2
+2022;Barcelona;Vallbona;trabajadores de baja calificación (%);;21.3
+2022;Barcelona;Vallbona;población con estudios bajos (%);;20.2
+2022;Barcelona;Vallbona;población joven sin estudios postobligatorios (%);;41.2
+2022;Barcelona;Vallbona;extranjeros de países de renta baja o media (%);;13.8
+2022;Barcelona;Vallbona;renta media por persona (€);;10461
+2022;Barcelona;la Trinitat Vella;población ocupada (%);;58.8
+2022;Barcelona;la Trinitat Vella;trabajadores de baja calificación (%);;20.3
+2022;Barcelona;la Trinitat Vella;población con estudios bajos (%);;20.1
+2022;Barcelona;la Trinitat Vella;población joven sin estudios postobligatorios (%);;39.1
+2022;Barcelona;la Trinitat Vella;extranjeros de países de renta baja o media (%);;27.2
+2022;Barcelona;la Trinitat Vella;renta media por persona (€);;10358
+2022;Barcelona;Baró de Viver;población ocupada (%);;55.3
+2022;Barcelona;Baró de Viver;trabajadores de baja calificación (%);;20.2
+2022;Barcelona;Baró de Viver;población con estudios bajos (%);;19.4
+2022;Barcelona;Baró de Viver;población joven sin estudios postobligatorios (%);;43.2
+2022;Barcelona;Baró de Viver;extranjeros de países de renta baja o media (%);;13.1
+2022;Barcelona;Baró de Viver;renta media por persona (€);;10759
+2022;Barcelona;el Bon Pastor;población ocupada (%);;58.9
+2022;Barcelona;el Bon Pastor;trabajadores de baja calificación (%);;15.4
+2022;Barcelona;el Bon Pastor;población con estudios bajos (%);;18.7
+2022;Barcelona;el Bon Pastor;población joven sin estudios postobligatorios (%);;36.2
+2022;Barcelona;el Bon Pastor;extranjeros de países de renta baja o media (%);;12.8
+2022;Barcelona;el Bon Pastor;renta media por persona (€);;13132
+2022;Barcelona;Sant Andreu;población ocupada (%);;71.3
+2022;Barcelona;Sant Andreu;trabajadores de baja calificación (%);;6.5
+2022;Barcelona;Sant Andreu;población con estudios bajos (%);;13
+2022;Barcelona;Sant Andreu;población joven sin estudios postobligatorios (%);;18.2
+2022;Barcelona;Sant Andreu;extranjeros de países de renta baja o media (%);;7
+2022;Barcelona;Sant Andreu;renta media por persona (€);;17635
+2022;Barcelona;la Sagrera;población ocupada (%);;68.6
+2022;Barcelona;la Sagrera;trabajadores de baja calificación (%);;8.1
+2022;Barcelona;la Sagrera;población con estudios bajos (%);;12.9
+2022;Barcelona;la Sagrera;población joven sin estudios postobligatorios (%);;14.4
+2022;Barcelona;la Sagrera;extranjeros de países de renta baja o media (%);;12.3
+2022;Barcelona;la Sagrera;renta media por persona (€);;16359
+2022;Barcelona;el Congrés i els Indians;población ocupada (%);;69
+2022;Barcelona;el Congrés i els Indians;trabajadores de baja calificación (%);;8
+2022;Barcelona;el Congrés i els Indians;población con estudios bajos (%);;12.5
+2022;Barcelona;el Congrés i els Indians;población joven sin estudios postobligatorios (%);;13.9
+2022;Barcelona;el Congrés i els Indians;extranjeros de países de renta baja o media (%);;11.5
+2022;Barcelona;el Congrés i els Indians;renta media por persona (€);;16408
+2022;Barcelona;Navas;población ocupada (%);;70.3
+2022;Barcelona;Navas;trabajadores de baja calificación (%);;7.2
+2022;Barcelona;Navas;población con estudios bajos (%);;11.8
+2022;Barcelona;Navas;población joven sin estudios postobligatorios (%);;11.8
+2022;Barcelona;Navas;extranjeros de países de renta baja o media (%);;11.8
+2022;Barcelona;Navas;renta media por persona (€);;16966
+2022;Barcelona;el Camp de l'Arpa del Clot;población ocupada (%);;69.1
+2022;Barcelona;el Camp de l'Arpa del Clot;trabajadores de baja calificación (%);;6.2
+2022;Barcelona;el Camp de l'Arpa del Clot;población con estudios bajos (%);;10.9
+2022;Barcelona;el Camp de l'Arpa del Clot;población joven sin estudios postobligatorios (%);;11.5
+2022;Barcelona;el Camp de l'Arpa del Clot;extranjeros de países de renta baja o media (%);;12.8
+2022;Barcelona;el Camp de l'Arpa del Clot;renta media por persona (€);;17683
+2022;Barcelona;el Clot;población ocupada (%);;69.3
+2022;Barcelona;el Clot;trabajadores de baja calificación (%);;6.6
+2022;Barcelona;el Clot;población con estudios bajos (%);;10.5
+2022;Barcelona;el Clot;población joven sin estudios postobligatorios (%);;11.4
+2022;Barcelona;el Clot;extranjeros de países de renta baja o media (%);;10.6
+2022;Barcelona;el Clot;renta media por persona (€);;17386
+2022;Barcelona;el Parc i la Llacuna del Poblenou;población ocupada (%);;66.6
+2022;Barcelona;el Parc i la Llacuna del Poblenou;trabajadores de baja calificación (%);;4.6
+2022;Barcelona;el Parc i la Llacuna del Poblenou;población con estudios bajos (%);;10
+2022;Barcelona;el Parc i la Llacuna del Poblenou;población joven sin estudios postobligatorios (%);;11.2
+2022;Barcelona;el Parc i la Llacuna del Poblenou;extranjeros de países de renta baja o media (%);;11.1
+2022;Barcelona;el Parc i la Llacuna del Poblenou;renta media por persona (€);;18325
+2022;Barcelona;la Vila Olímpica del Poblenou;población ocupada (%);;65.5
+2022;Barcelona;la Vila Olímpica del Poblenou;trabajadores de baja calificación (%);;1.8
+2022;Barcelona;la Vila Olímpica del Poblenou;población con estudios bajos (%);;4.5
+2022;Barcelona;la Vila Olímpica del Poblenou;población joven sin estudios postobligatorios (%);;6
+2022;Barcelona;la Vila Olímpica del Poblenou;extranjeros de países de renta baja o media (%);;7.2
+2022;Barcelona;la Vila Olímpica del Poblenou;renta media por persona (€);;25939
+2022;Barcelona;el Poblenou;población ocupada (%);;70
+2022;Barcelona;el Poblenou;trabajadores de baja calificación (%);;4.3
+2022;Barcelona;el Poblenou;población con estudios bajos (%);;9.9
+2022;Barcelona;el Poblenou;población joven sin estudios postobligatorios (%);;11.1
+2022;Barcelona;el Poblenou;extranjeros de países de renta baja o media (%);;9.4
+2022;Barcelona;el Poblenou;renta media por persona (€);;18874
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;población ocupada (%);;67.8
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;trabajadores de baja calificación (%);;3.1
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;población con estudios bajos (%);;10.4
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;población joven sin estudios postobligatorios (%);;10.3
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;extranjeros de países de renta baja o media (%);;10.8
+2022;Barcelona;Diagonal Mar i el Front Marítim del Poblenou;renta media por persona (€);;20593
+2022;Barcelona;el Besòs i el Maresme;población ocupada (%);;52.3
+2022;Barcelona;el Besòs i el Maresme;trabajadores de baja calificación (%);;17.4
+2022;Barcelona;el Besòs i el Maresme;población con estudios bajos (%);;22
+2022;Barcelona;el Besòs i el Maresme;población joven sin estudios postobligatorios (%);;40.5
+2022;Barcelona;el Besòs i el Maresme;extranjeros de países de renta baja o media (%);;25.3
+2022;Barcelona;el Besòs i el Maresme;renta media por persona (€);;11577
+2022;Barcelona;Provençals del Poblenou;población ocupada (%);;68.1
+2022;Barcelona;Provençals del Poblenou;trabajadores de baja calificación (%);;7
+2022;Barcelona;Provençals del Poblenou;población con estudios bajos (%);;12.1
+2022;Barcelona;Provençals del Poblenou;población joven sin estudios postobligatorios (%);;15.8
+2022;Barcelona;Provençals del Poblenou;extranjeros de países de renta baja o media (%);;11.1
+2022;Barcelona;Provençals del Poblenou;renta media por persona (€);;16402
+2022;Barcelona;Sant Martí de Provençals;población ocupada (%);;67.4
+2022;Barcelona;Sant Martí de Provençals;trabajadores de baja calificación (%);;8.3
+2022;Barcelona;Sant Martí de Provençals;población con estudios bajos (%);;15.8
+2022;Barcelona;Sant Martí de Provençals;población joven sin estudios postobligatorios (%);;16.9
+2022;Barcelona;Sant Martí de Provençals;extranjeros de países de renta baja o media (%);;11.6
+2022;Barcelona;Sant Martí de Provençals;renta media por persona (€);;15546
+2022;Barcelona;la Verneda i la Pau;población ocupada (%);;64.8
+2022;Barcelona;la Verneda i la Pau;trabajadores de baja calificación (%);;11.2
+2022;Barcelona;la Verneda i la Pau;población con estudios bajos (%);;18.1
+2022;Barcelona;la Verneda i la Pau;población joven sin estudios postobligatorios (%);;21.6
+2022;Barcelona;la Verneda i la Pau;extranjeros de países de renta baja o media (%);;12.4
+2022;Barcelona;la Verneda i la Pau;renta media por persona (€);;14188
+2022;Barcelona;total;población ocupada (%);;65.6
+2022;Barcelona;total;trabajadores de baja calificación (%);;7.6
+2022;Barcelona;total;población con estudios bajos (%);;11.9
+2022;Barcelona;total;población joven sin estudios postobligatorios (%);;15.4
+2022;Barcelona;total;extranjeros de países de renta baja o media (%);;12.9
+2022;Barcelona;total;renta media por persona (€);;18404
