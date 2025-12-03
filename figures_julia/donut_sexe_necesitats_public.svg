@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="208.8pt" height="136.8pt" viewBox="0 0 208.8 136.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="178.56pt" height="106.56pt" viewBox="0 0 178.56 106.56" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-12-02T11:44:12.212106</dc:date>
+    <dc:date>2025-12-03T12:49:39.974926</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,9 +21,9 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 136.8 
-L 208.8 136.8 
-L 208.8 0 
+   <path d="M 0 106.56 
+L 178.56 106.56 
+L 178.56 0 
 L 0 0 
 z
 " style="fill: #ffffff"/>
@@ -31,16 +31,16 @@ z
   <g id="axes_1">
    <g id="legend_1">
     <g id="patch_2">
-     <path d="M 60.108359 60.614531 
-L 94.108359 60.614531 
-L 94.108359 48.714531 
-L 60.108359 48.714531 
+     <path d="M 44.988359 45.494531 
+L 78.988359 45.494531 
+L 78.988359 33.594531 
+L 44.988359 33.594531 
 z
 " style="fill: #6d597a"/>
     </g>
     <g id="text_1">
      <!-- Girls -->
-     <g transform="translate(107.708359 60.614531) scale(0.17 -0.17)">
+     <g transform="translate(92.588359 45.494531) scale(0.17 -0.17)">
       <defs>
        <path id="DejaVuSans-47" d="M 3809 666 
 L 3809 1919 
@@ -144,16 +144,16 @@ z
      </g>
     </g>
     <g id="patch_3">
-     <path d="M 60.108359 85.567344 
-L 94.108359 85.567344 
-L 94.108359 73.667344 
-L 60.108359 73.667344 
+     <path d="M 44.988359 70.447344 
+L 78.988359 70.447344 
+L 78.988359 58.547344 
+L 44.988359 58.547344 
 z
 " style="fill: #f4a261"/>
     </g>
     <g id="text_2">
      <!-- Boys -->
-     <g transform="translate(107.708359 85.567344) scale(0.17 -0.17)">
+     <g transform="translate(92.588359 70.447344) scale(0.17 -0.17)">
       <defs>
        <path id="DejaVuSans-42" d="M 1259 2228 
 L 1259 519 
