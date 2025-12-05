@@ -113,10 +113,10 @@ District-level spatial maps
 
 Figures:
 
-![Promotion vs IST](figures_ana/ist-api.png)
-![District Socioeconomic Map](figures_ana/ist_maps.png)
-![Linear Regression Analysis](figures_ana/regresion_3.png)
-![Correlation Analysis](figures_ana/correlation.png)
+<img src="figures_ana/ist-api.png" width="60%">
+<img src="figures_ana/ist_maps.png" width="60%">
+<img src="figures_ana/regresion_3.png" width="60%">
+<img src="figures_ana/correlation.png" width="60%">
 
 
 🏫 Anna Szymanski — Public vs Private School Inequalities
@@ -164,7 +164,7 @@ Relationship with district income
 
 Figures:
 
-![Educational trajectories](figures_quintin/chord_plot_edu.png)
-![ESO paths](figures_quintin/education_pathways_after_4th_ESO_CAT.png)
-![University Enrollments](figures_quintin/new_university_students_catalonia.png)
+<img src="figures_quintin/chord_plot_edu.png">
+<img src="figures_quintin/education_pathways_after_4th_ESO_CAT.png" width="60%">
+
 
