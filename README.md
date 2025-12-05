@@ -10,11 +10,11 @@ The project is based exclusively on **open public datasets** from the Generalita
 
 ##  Research Team
 
-- Ana Cano Herranz  
-- Julia Carrillo Alonso  
-- Ander Gabarrús Ordóñez  
-- Quintín Huertas Murcia  
-- Anna Szymanski Cortés  
+- Ana Cano Herranz (anacanoherranz)
+- Julia Carrillo Alonso (juliaacarrillo)
+- Ander Gabarrús Ordóñez (underDD)
+- Quintín Huertas Murcia (donquintin)
+- Anna Szymanski Cortés (annaszymanskicortes)
 
 Contact: `andergabarrus.val@gmail.com`
 
