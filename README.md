@@ -113,12 +113,11 @@ District-level spatial maps
 
 Figures:
 
-```markdown
 ![Promotion vs IST](figures_ana/ist-api.png)
 ![District Socioeconomic Map](figures_ana/ist_maps.png)
 ![Linear Regression Analysis](figures_ana/regresion_3.png)
 ![Correlation Analysis](figures_ana/correlation.png)
-```
+
 
 🏫 Anna Szymanski — Public vs Private School Inequalities
 Focus:
