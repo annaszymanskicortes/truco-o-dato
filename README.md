@@ -170,8 +170,8 @@ Relationship with district income
 Figures:
 
 ```markdown
-![ESO to Bachillerato](figures_quintin/eso_to_bachillerato.png)
-![ESO to FP](figures_quintin/eso_to_fp.png)
-![University Enrollments](figures_quintin/university_enrollments.png)
+![Educational trajectories](figures_quintin/chord_plot_edu.png)
+![ESO paths](figures_quintin/educational_pathways_after_4th_ESO_CAT.png)
+![University Enrollments](figures_quintin/new_university_students_catalonia.png)
 ![District Rent Map](figures_quintin/rent_map.png)
 ```
