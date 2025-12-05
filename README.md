@@ -98,11 +98,11 @@ Focus:
 - Relationship with socioeconomic indicators (IST, rent per capita, suitability index)
 
 **Figures:**
-```markdown
-![Promotion Time Series](figures_ander/promotion_timeseries.png)
-![Year-to-Year Relative Variation](figures_ander/relative_variation.png)
-![Socioeconomic Bubble Evolution](figures_ander/bubble_evolution.png)
-```
+
+![Promotion Time Series](figures_ander/promotion_and_variation.png)
+![Mean Basic Competencies Grade Variation](figures_ander/mean_score_evolution.png)
+![Socioeconomic Bubble Evolution](figures_ander/idoneity_evolution.png)
+
 🏘️ Ana Cano — Socioeconomic Context vs Academic Results
 Focus:
 
@@ -171,8 +171,8 @@ Relationship with district income
 Figures:
 
 ```markdown
-![ESO to Bachillerato](figures_quintin/eso_to_bachillerato.png)
-![ESO to FP](figures_quintin/eso_to_fp.png)
-![University Enrollments](figures_quintin/university_enrollments.png)
+![Educational trajectories](figures_quintin/chord_plot_edu.png)
+![ESO paths](figures_quintin/educational_pathways_after_4th_ESO_CAT.png)
+![University Enrollments](figures_quintin/new_university_students_catalonia.png)
 ![District Rent Map](figures_quintin/rent_map.png)
 ```
