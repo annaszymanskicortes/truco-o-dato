@@ -55,7 +55,7 @@ Formats include **CSV, XLSX and JSON**.
 ##  Repository Structure
 
 ```text
-├── data/ # Shared general datasets (raw or processed)
+├── data/ # Shared general datasets (raw)
 ├── data_Ana/ # Datasets used specifically by Ana
 ├── data_Ander/ # Datasets used specifically by Ander
 ├── data_Anna/ # Datasets used specifically by Anna
@@ -73,9 +73,6 @@ Formats include **CSV, XLSX and JSON**.
 ├── notebook_quintin.ipynb # Quintín’s analysis notebook
 │
 ├── OpenData.ipynb # General notebook for dataset exploration
-│
-├── Datos.csv # Project metadata / description table
-├── Descripción.csv # Additional metadata
 │
 ├── LICENSE # License information
 ├── .gitignore # Git ignore rules
@@ -99,16 +96,16 @@ Focus:
 
 **Figures:**
 
-![Promotion Time Series](figures_ander/promotion_and_variation.png)
-![Mean Basic Competencies Grade Variation](figures_ander/mean_score_evolution.png)
-![Socioeconomic Bubble Evolution](figures_ander/idoneity_evolution.png)
+<img src="figures_ander/promotion_and_variation.png" width="60%">
+<img src="figures_ander/mean_score_evolution.png" width="60%">
+<img src="figures_ander/idoneity_evolution.png" width="60%">
 
 🏘️ Ana Cano — Socioeconomic Context vs Academic Results
 Focus:
 
 Academic Promotion Index
 
-Relationship between promotion and income by district
+Relationship between promotion and territorial socioeconomic index (IST) by district
 
 Correlation and regression analysis
 
@@ -116,11 +113,11 @@ District-level spatial maps
 
 Figures:
 
-```markdown
-![Promotion vs Income](figures_ana/promotion_vs_income.png)
-![District Socioeconomic Map](figures_ana/district_map.png)
-![Correlation Analysis](figures_ana/correlation_analysis.png)
-```
+<img src="figures_ana/ist-api.png" width="60%">
+<img src="figures_ana/ist_maps.png" width="60%">
+<img src="figures_ana/regresion_3.png" width="60%">
+<img src="figures_ana/correlation.png" width="60%">
+
 
 🏫 Anna Szymanski — Public vs Private School Inequalities
 Focus:
@@ -133,11 +130,10 @@ District-based visualization of academic inequalities
 
 Figures:
 
-```markdown
 ![School Type Comparison](figures_anna/school_type_comparison.png)
 ![District Performance Map](figures_anna/district_results_map.png)
 ![Basic Competencies Comparison](figures_anna/basic_competencies.png)
-```
+
 🧩 Julia Carrillo — Educational Needs (NESE) & Performance
 Focus:
 
@@ -151,11 +147,11 @@ District-based geospatial analysis
 
 Figures:
 
-```markdown
-![NESE vs Promotion](figures_julia/nese_vs_promotion.png)
-![NESE Distribution Map](figures_julia/nese_distribution_map.png)
-![Gender Differences](figures_julia/gender_comparison.png)
-```
+<img src="figures_julia/donut_jerarquia_necesidades_fancy.png" width="60%">
+<img src="figures_julia/barplot_con_donut.svg" width="60%">
+<img src="figures_julia/Correlation.svg" width="60%">
+<img src="figures_julia/mapas/maps.svg" width="60%">
+
 🔄 Quintín Huertas — Educational Trajectories & Student Flows
 Focus:
 
@@ -169,9 +165,7 @@ Relationship with district income
 
 Figures:
 
-```markdown
-![ESO to Bachillerato](figures_quintin/eso_to_bachillerato.png)
-![ESO to FP](figures_quintin/eso_to_fp.png)
-![University Enrollments](figures_quintin/university_enrollments.png)
-![District Rent Map](figures_quintin/rent_map.png)
-```
+<img src="figures_quintin/chord_plot_edu.png">
+<img src="figures_quintin/education_pathways_after_4th_ESO_CAT.png" width="60%">
+
+
