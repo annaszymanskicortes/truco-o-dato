@@ -130,11 +130,10 @@ District-based visualization of academic inequalities
 
 Figures:
 
-```markdown
 ![School Type Comparison](figures_anna/school_type_comparison.png)
 ![District Performance Map](figures_anna/district_results_map.png)
 ![Basic Competencies Comparison](figures_anna/basic_competencies.png)
-```
+
 🧩 Julia Carrillo — Educational Needs (NESE) & Performance
 Focus:
 
@@ -148,11 +147,10 @@ District-based geospatial analysis
 
 Figures:
 
-```markdown
 ![NESE vs Promotion](figures_julia/nese_vs_promotion.png)
 ![NESE Distribution Map](figures_julia/nese_distribution_map.png)
 ![Gender Differences](figures_julia/gender_comparison.png)
-```
+
 🔄 Quintín Huertas — Educational Trajectories & Student Flows
 Focus:
 
@@ -166,9 +164,8 @@ Relationship with district income
 
 Figures:
 
-```markdown
 ![Educational trajectories](figures_quintin/chord_plot_edu.png)
 ![ESO paths](figures_quintin/educational_pathways_after_4th_ESO_CAT.png)
 ![University Enrollments](figures_quintin/new_university_students_catalonia.png)
 ![District Rent Map](figures_quintin/rent_map.png)
-```
+
