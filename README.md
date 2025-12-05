@@ -165,6 +165,6 @@ Relationship with district income
 Figures:
 
 ![Educational trajectories](figures_quintin/chord_plot_edu.png)
-![ESO paths](figures_quintin/educational_pathways_after_4th_ESO_CAT.png)
+![ESO paths](figures_quintin/education_pathways_after_4th_ESO_CAT.png)
 ![University Enrollments](figures_quintin/new_university_students_catalonia.png)
 
