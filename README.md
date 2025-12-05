@@ -74,9 +74,6 @@ Formats include **CSV, XLSX and JSON**.
 │
 ├── OpenData.ipynb # General notebook for dataset exploration
 │
-├── Datos.csv # Project metadata / description table
-├── Descripción.csv # Additional metadata
-│
 ├── LICENSE # License information
 ├── .gitignore # Git ignore rules
 ├── README.md # Project documentation (this file)
