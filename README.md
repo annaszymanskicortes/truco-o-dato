@@ -147,9 +147,10 @@ District-based geospatial analysis
 
 Figures:
 
-![NESE vs Promotion](figures_julia/nese_vs_promotion.png)
-![NESE Distribution Map](figures_julia/nese_distribution_map.png)
-![Gender Differences](figures_julia/gender_comparison.png)
+<img src="figures_julia/donut_jerarquia_necesidades_fancy.png" width="60%">
+<img src="figures_julia/barplot_con_donut.svg" width="60%">
+<img src="figures_julia/Correlation.svg" width="60%">
+<img src="figures_julia/mapas/maps.svg" width="60%">
 
 🔄 Quintín Huertas — Educational Trajectories & Student Flows
 Focus:
