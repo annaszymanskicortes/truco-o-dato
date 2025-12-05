@@ -130,9 +130,9 @@ District-based visualization of academic inequalities
 
 Figures:
 
-<img src="figures_anna/cmap_typeschool.png" width="60%">
-<img src="figures_anna/competencies.png" width="60%">
-<img src="figures_anna/titularidad.png" width="60%">
+![School Type Comparison](figures_anna/school_type_comparison.png)
+![District Performance Map](figures_anna/district_results_map.png)
+![Basic Competencies Comparison](figures_anna/basic_competencies.png)
 
 🧩 Julia Carrillo — Educational Needs (NESE) & Performance
 Focus:
