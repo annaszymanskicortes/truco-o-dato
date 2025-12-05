@@ -99,9 +99,6 @@ Focus:
 <img src="figures_ander/promotion_and_variation.png" width="60%">
 <img src="figures_ander/mean_score_evolution.png" width="60%">
 <img src="figures_ander/idoneity_evolution.png" width="60%">
-![Promotion Time Series](figures_ander/promotion_and_variation.png)
-![Mean Basic Competencies Grade Variation](figures_ander/mean_score_evolution.png)
-![Socioeconomic Bubble Evolution](figures_ander/idoneity_evolution.png)
 
 🏘️ Ana Cano — Socioeconomic Context vs Academic Results
 Focus:
