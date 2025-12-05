@@ -55,7 +55,7 @@ Formats include **CSV, XLSX and JSON**.
 ##  Repository Structure
 
 ```text
-├── data/ # Shared general datasets (raw or processed)
+├── data/ # Shared general datasets (raw)
 ├── data_Ana/ # Datasets used specifically by Ana
 ├── data_Ander/ # Datasets used specifically by Ander
 ├── data_Anna/ # Datasets used specifically by Anna
@@ -108,7 +108,7 @@ Focus:
 
 Academic Promotion Index
 
-Relationship between promotion and income by district
+Relationship between promotion and territorial socioeconomic index (IST) by district
 
 Correlation and regression analysis
 
@@ -117,9 +117,10 @@ District-level spatial maps
 Figures:
 
 ```markdown
-![Promotion vs Income](figures_ana/promotion_vs_income.png)
-![District Socioeconomic Map](figures_ana/district_map.png)
-![Correlation Analysis](figures_ana/correlation_analysis.png)
+![Promotion vs IST](figures_ana/ist-api.png)
+![District Socioeconomic Map](figures_ana/ist_maps.png)
+![Linear Regression Analysis](figures_ana/regresion_3.png)
+![Correlation Analysis](figures_ana/correlation.png)
 ```
 
 🏫 Anna Szymanski — Public vs Private School Inequalities
